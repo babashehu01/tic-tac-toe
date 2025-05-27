@@ -14,13 +14,13 @@ This project demonstrates fundamental JavaScript concepts like factory functions
 
 ## 📸 Screenshot
 
-![Game start page](assets/game-start-page.png)
+![Game start page](assets\game-start-page.png)
 
 ![Game play page](assets/game-play-page.png)
 
-![Draw page](draw-page.png)
+![Draw page](assets/draw-page.png)
 
-![Win page](win-page.png)
+![Win page](assets/win-page.png)
 
 ---
 
