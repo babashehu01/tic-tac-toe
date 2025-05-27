@@ -20,7 +20,7 @@ This project demonstrates fundamental JavaScript concepts like factory functions
 
 ![Draw page](assets/draw-page.png)
 
-![Win page](assets/win-page.PNG)
+![Win page](assets/win.PNG)
 
 ---
 
